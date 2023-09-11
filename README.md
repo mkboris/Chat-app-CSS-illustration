@@ -19,12 +19,11 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 Users should be able to:
 
 - View the optimal layout for each page depending on their device's screen size
-- See hover states for all interactive elements throughout the site
 
 ### Links
 
-- Solution URL: https://github.com/mkboris/Art-gallery-website
-- Live Site URL: https://art-gallery-website-three.vercel.app/
+- Solution URL: https://github.com/mkboris/Chat-app-CSS-illustration
+- Live Site URL: https://chat-app-css-illustration-tau.vercel.app/
 
 ### Built with
 
